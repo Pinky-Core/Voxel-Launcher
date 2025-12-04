@@ -1,8 +1,16 @@
 [
   {
-    "title": "Título de la nota",
-    "url": "https://midominio.com/post/1",
-    "date": "2024-06-15T12:00:00Z",
-    "summary": "Resumen breve de la noticia."
+    "title": "Nuevo Voxel Launcher",
+    "url": "",
+    "date": "2025-02-14T12:00:00Z",
+    "summary": "Rediseño completo, perfiles rápidos, integración con Discord RPC y tarjetas de noticias más visuales.",
+    "image": "https://i.imgur.com/IXVcY2m.png"
+  },
+  {
+    "title": "Inicio con Microsoft deshabilitado",
+    "url": "",
+    "date": "2025-02-13T09:00:00Z",
+    "summary": "La opción de iniciar sesión con Microsoft está temporalmente deshabilitada mientras revisamos la integración.",
+    "image": "https://i.imgur.com/kIC2I2A.png"
   }
 ]
